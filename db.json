@@ -1,0 +1,124 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Nick",
+      "email": "nick@email.com",
+      "contactNumber": "3304710852",
+      "buildingNo": "3185",
+      "street": "Rainbow Drive",
+      "area": "Newport",
+      "city": "Akron",
+      "state": "Ohio",
+      "pincode": "44311"
+    },
+    {
+      "id": 2,
+      "name": "Michael",
+      "email": "michael@email.com",
+      "contactNumber": "9803551482",
+      "buildingNo": "250",
+      "street": "Longbow Street",
+      "area": "Chris Avenue",
+      "city": "Boston",
+      "state": "Los angeles",
+      "pincode": "12345"
+    },
+    {
+      "id": 3,
+      "buildingNo": "4208",
+      "street": "Hott Street",
+      "area": "Payne Avenue",
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "pincode": "12345",
+      "name": "Dorothy",
+      "email": "dorothy@email.com",
+      "contactNumber": "8866462883"
+    },
+    {
+      "id": 4,
+      "buildingNo": "1387",
+      "street": "Edgewood Road",
+      "area": "Square Avenue",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "pincode": "72210",
+      "name": "Henry",
+      "email": "henry@email.com",
+      "contactNumber": "5013072334"
+    },
+    {
+      "id": 5,
+      "buildingNo": "1176",
+      "street": "Pick Street",
+      "area": "George Avenue",
+      "city": "Kremmling",
+      "state": "Colorado",
+      "pincode": "80459",
+      "name": "Keith",
+      "email": "keith@email.com",
+      "contactNumber": "9705376693"
+    },
+    {
+      "id": 6,
+      "buildingNo": "2153",
+      "street": "Tyler Avenue",
+      "area": "Beach Lane",
+      "city": "Miami",
+      "state": "Florida",
+      "pincode": "33128",
+      "name": "Maria",
+      "email": "maria@email.com",
+      "contactNumber": "7866830222"
+    },
+    {
+      "id": 7,
+      "buildingNo": "1760",
+      "street": "New York Avenue",
+      "area": "Bradford",
+      "city": "Los Angeles",
+      "state": "California",
+      "pincode": "90071",
+      "name": "Virginia",
+      "email": "virginia@email.com",
+      "contactNumber": "8182084439"
+    },
+    {
+      "id": 8,
+      "buildingNo": "1479",
+      "street": "Andell Road",
+      "area": "Washington Street",
+      "city": "Elwood",
+      "state": "Indiana",
+      "pincode": "46036",
+      "name": "Kathryn",
+      "email": "kathryn@email.com",
+      "contactNumber": "8184262813"
+    },
+    {
+      "id": 9,
+      "buildingNo": "968",
+      "street": "Frederick Street",
+      "area": "College Avenue",
+      "city": "Cameron",
+      "state": "Texas",
+      "pincode": "76520",
+      "name": "Edwin",
+      "email": "edwin@email.com",
+      "contactNumber": "2544558795"
+    },
+    {
+      "id": 10,
+      "buildingNo": "1388",
+      "street": "Star Route",
+      "area": "Lamp Street",
+      "city": "Bridgeview",
+      "state": "Illinois",
+      "pincode": "60455",
+      "name": "Darrell",
+      "email": "darrell@email.com",
+      "contactNumber": "3173738158"
+    }
+  ]
+}
